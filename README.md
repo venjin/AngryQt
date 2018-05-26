@@ -1,2 +1,2 @@
 # first-rep
-第一个项目
+https://venjin.github.io/blog/
